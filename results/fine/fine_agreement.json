@@ -1,0 +1,17 @@
+{
+ "aqua/Qwen3-8B": 0.9943125618199802,
+ "gpqa/Qwen3-32B": 0.9868287740628167,
+ "gpqa/Qwen3-8B": 0.9896722047597665,
+ "gsm8k/DeepSeek-R1-Distill-Llama-8B": 0.9946164199192463,
+ "gsm8k/DeepSeek-R1-Distill-Qwen-7B": 0.9942315615986815,
+ "gsm8k/Qwen3-32B": 0.9955959262317644,
+ "gsm8k/Qwen3-8B": 0.9969241285030759,
+ "math500/DeepSeek-R1-Distill-Llama-8B": 0.996214728148658,
+ "math500/DeepSeek-R1-Distill-Qwen-7B": 0.9912304741024939,
+ "math500/Qwen3-32B": 0.9937915742793791,
+ "math500/Qwen3-8B": 1.0,
+ "mmlu_pro/DeepSeek-R1-Distill-Llama-8B": 0.9908402540302882,
+ "mmlu_pro/DeepSeek-R1-Distill-Qwen-7B": 0.991822131357015,
+ "mmlu_pro/Qwen3-32B": 0.9937348711376904,
+ "mmlu_pro/Qwen3-8B": 0.9953505444757127
+}
